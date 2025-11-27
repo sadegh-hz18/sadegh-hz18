@@ -60,13 +60,21 @@ Every line of code I write is a step toward a future where technology empowers m
 
 ---
 
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sadegh-hz18&show_icons=true&title_color=39FF14&icon_color=00FFFF&text_color=FF6E00&bg_color=0A0A0A" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadegh-hz18&theme=dark&ring=39FF14&fire=FF073A&currStreakLabel=00FFFF" />
+</div>
+
+---
+
 ## 🤝 Let's Connect!
 <div align="center">
   <a href="https://github.com/sadegh-hz18"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="mailto:sadeghhajizadeh999@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://t.me/Namdarex"><img src="https://skillicons.dev/icons?i=telegram" /></a>
-  <a href="https://instagram.com/yourusername"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://x.com/yourusername"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://t.me/Namdarex"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="40" height="40" /></a>
+  <a href="https://instagram.com/sadegh_hz18"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://x.com/Sadegh_hz18"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </div>
 
 ---
