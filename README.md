@@ -1,4 +1,4 @@
-# README.md
+
 # 👋 Hi, I'm Sadegh Hajizadeh
 
 Creative Android Developer & Web Programmer who turns ideas into interactive digital experiences. I love combining logic, design, and clean code to build applications that not only work — they *feel* right.
