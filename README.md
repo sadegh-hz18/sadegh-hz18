@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/sadegh-hz18/sadegh-hz18/main/Medium.png" alt="Cross-Platform Code Architect" width="100%" />
+</div>
+
+---
+
+<div align="center">
   
 # 👋 Hi, I'm Sadegh Hajizadeh  
 
@@ -72,7 +78,7 @@ Every line of code I write is a step toward a future where technology empowers m
 <div align="center">
   <a href="https://github.com/sadegh-hz18"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="mailto:sadeghhajizadeh999@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://t.me/Namdarex"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="40" height="40" /></a>
+  <a href="https://t.me/Namdarex"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" height="40" /></a>
   <a href="https://instagram.com/sadegh_hz18"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="https://x.com/Sadegh_hz18"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </div>
