@@ -1,73 +1,98 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Sadegh;Flutter+%7C+FastAPI+%7C+Full%7CStack+%7C+DevOps;Shipping+Fast+%26+Clean+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sadegh;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
 </h1>
 
 ## About Me
-> **Flutter • FastAPI • Laravel • Full-Stack Developer**  
-> عاشق کد تمیز، دیپلوی سریع و اپ‌های زیبا
 
-- در حال ساخت اپ‌های کراس‌پلتفرم با **Flutter**
-- نوشتن APIهای تند و تیز با **FastAPI** و **Laravel**
-- دیپلوی روی **Railway • Vercel • Render • Firebase**
-- همیشه در حال یادگیری و آپدیت بودن
+> Full-stack developer with expertise in multiple technologies and a passion for open-source contributions. Dedicated to continuous learning and building impactful solutions.
+
+- Currently working on innovative web applications
+- Learning advanced cloud architectures and microservices
+- Open to collaborating on open-source projects
+- Ask me about JavaScript, Go, PHP, or anything tech-related
+- Fun fact: I love contributing to the developer community
 
 ## GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadegh-hz18&theme=tokyonight&langs_count=8&hide_border=true&border_radius=20&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadegh-hz18&theme=tokyonight&langs_count=12&hide_border=true&border_radius=20" alt="Top Languages" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadegh-hz18&theme=tokyonight&hide_border=true&border_radius=20&fire=00FF00&ring=00FF00" />
+  < vehículo src="https://github-readme-streak-stats.herokuapp.com/?user=sadegh-hz18&theme=tokyonight&hide_border=true&border_radius=20" alt="GitHub Streak" />
 </p>
 
 ---
-## Tech Stack (فقط چیزایی که واقعاً بلدم و استفاده می‌کنم)
+
+## Tech Stack & Tools
 
 ### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,python,php,js,ts" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,go,rust,php,java,kotlin,dart" />
 </p>
 
-### Mobile & Frontend
+### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,tailwind,bootstrap,html,css,sass" />
 </p>
 
-### Backend & APIs
+### Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,laravel,nodejs,express,supabase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,nestjs,graphql,prisma" />
 </p>
 
 ### Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,redis,supabase" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite" />
 </p>
 
-### DevOps & Tools
+### Cloud & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,vercel,railway,render,postman,vscode,androidstudio,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,aws,gcp,azure,firebase,vercel,netlify,heroku" />
+</p>
+
+### Tools & Others
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,postman,bash,powershell,nginx,flutter" />
 </p>
 
 ---
+
 ## Contribution Activity
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadegh-hz18&theme=tokyonight&hide_border=true&border_radius=20&point=00FF00" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadegh-hz18&theme=tokyonight&hide_border=true&border_radius=20" alt="Contribution Graph" />
 </p>
 
 ---
-## GitHub Trophies
+
+## GitHub Achievements
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sadegh-hz18&theme=tokyonight&no-frame=true&row=1&column=8&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sadegh-hz18&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
-## Connect With Me
-<p align="center">
-  <a href="https://github.com/sadegh-hz18"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://t.me/sadegh_hz18"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="mailto:sadeghhajizadeh999@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/sadegh_hz18"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+
+## Connect with Me
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <a href="https://github.com/sadegh-hz18">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://t.me/sadegh_hz18">
+    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="mailto:sadeghhajizadeh999@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://instagram.com/sadegh_hz18">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
