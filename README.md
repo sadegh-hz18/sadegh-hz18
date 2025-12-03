@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sadegh-hz18/sadegh-hz18/blob/main/Medium.png?raw=true" alt="Sadegh" />
+  <img src="https://github.com/sadegh-hz18/sadegh-hz18/blob/main/Medium.png?raw=true" alt="Sadegh Banner" width="800"/>
 </p>
 
 <h1 align="center">
@@ -14,7 +14,7 @@
 - Learning advanced cloud architectures and microservices
 - Open to collaborating on open-source projects
 - Ask me about Flutter, FastAPI, Laravel, JavaScript, or anything tech-related
-- Fun fact: I love clean code and beautiful UIs
+- Fun fact: I love clean code and beautiful UI
 
 ## GitHub Analytics
 
@@ -32,17 +32,17 @@
 
 ### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php,dart,go" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,go,rust,php,java,kotlin,dart" />
 </p>
 
-### Frontend & Mobile
+### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,tailwind,bootstrap,html,css,sass" />
 </p>
 
 ### Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,fastapi,supabase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,nestjs,graphql,prisma" />
 </p>
 
 ### Databases
@@ -52,12 +52,12 @@
 
 ### Cloud & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel,railway,render,firebase" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,aws,gcp,azure,firebase,vercel,netlify,heroku" />
 </p>
 
-### Tools
+### Tools & Others
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,postman,bash,powershell,nginx,flutter" />
 </p>
 
 ---
@@ -94,6 +94,8 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
