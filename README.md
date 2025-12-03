@@ -16,12 +16,10 @@
 - Ask me about Flutter, FastAPI, Laravel, JavaScript or anything tech
 - Fun fact: I love clean code and beautiful UI
 
-<!-- Visitor Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sadegh-hz18&color=00ff00&style=flat-square&label=Profile+Views" />
 </p>
 
-<!-- Neon Separator -->
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=3"/></p>
 
 ## GitHub Analytics
@@ -76,13 +74,28 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadegh-hz18&theme=tokyonight&hide_border=true&border_radius=20" alt="Contribution Graph" />
 </p>
 
-<!-- Neon Separator -->
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=3"/></p>
 
 ## GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sadegh-hz18&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+<!-- ۸ - Random Dev Quote -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<!-- ۹ - Lottie Animation -->
+<p align="center">
+  <img src="https://readme-lottie.vercel.app/api?file=lf20_j1klkigp.json&color=00FF00" width="380"/>
+</p>
+
+<!-- ۱۰ - Powered by Coffee -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Powered%20by-%E2%98%95%20Coffee-00FF00?style=flat-square" />
+  <img src="https://coffee-badge.vercel.app/api/coffee?sadegh-hz18" height="28"/>
 </p>
 
 ---
@@ -104,12 +117,10 @@
   </a>
 </p>
 
-<!-- Motivational Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=6000&color=00FF00&center=true&vCenter=true&lines=Keep+coding.+Keep+shipping.;Never+stop+learning.;Clean+code+changes+the+world."/>
 </p>
 
-<!-- Footer Wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
