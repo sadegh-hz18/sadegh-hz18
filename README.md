@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/sadegh-hz18/sadegh-hz18/blob/main/Medium.png?raw=true" alt="Sadegh Banner" width="800"/>
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sadegh;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
 </h1>
@@ -6,11 +10,11 @@
 
 > Full-stack developer with expertise in multiple technologies and a passion for open-source contributions. Dedicated to continuous learning and building impactful solutions.
 
-- Currently working on innovative web applications
+- Currently working on innovative web & mobile applications
 - Learning advanced cloud architectures and microservices
 - Open to collaborating on open-source projects
-- Ask me about JavaScript, Go, PHP, or anything tech-related
-- Fun fact: I love contributing to the developer community
+- Ask me about Flutter, FastAPI, Laravel, JavaScript, or anything tech-related
+- Fun fact: I love clean code and beautiful UI
 
 ## GitHub Analytics
 
@@ -19,7 +23,7 @@
 </p>
 
 <p align="center">
-  < vehículo src="https://github-readme-streak-stats.herokuapp.com/?user=sadegh-hz18&theme=tokyonight&hide_border=true&border_radius=20" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadegh-hz18&theme=tokyonight&hide_border=true&border_radius=20" alt="GitHub Streak" />
 </p>
 
 ---
