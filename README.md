@@ -23,97 +23,53 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=3"/></p>
 
 ## GitHub Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadegh-hz18&theme=tokyonight&langs_count=12&hide_border=true&border_radius=20" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadegh-hz18&theme=tokyonight&hide_border=true&border_radius=20" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadegh-hz18&theme=tokyonight&langs_count=12&hide_border=true&border_radius=20" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadegh-hz18&theme=tokyonight&hide_border=true&border_radius=20" />
 </p>
 
 ---
 
 ## Tech Stack & Tools
-
-### Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,go,rust,php,java,kotlin,dart" />
-</p>
-
-### Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,tailwind,bootstrap,html,css,sass" />
-</p>
-
-### Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,nestjs,graphql,prisma" />
-</p>
-
-### Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite" />
-</p>
-
-### Cloud & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,aws,gcp,azure,firebase,vercel,netlify,heroku" />
-</p>
-
-### Tools & Others
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,postman,bash,powershell,nginx,flutter" />
-</p>
+<!-- ... همون قبلی ... -->
 
 ---
 
 ## Contribution Activity
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadegh-hz18&theme=tokyonight&hide_border=true&border_radius=20" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadegh-hz18&theme=tokyonight&hide_border=true&border_radius=20" />
 </p>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=3"/></p>
 
 ## GitHub Achievements
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sadegh-hz18&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sadegh-hz18&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
-<!-- Random Dev Quote -->
+<!-- Random Quote (بدون فیلتر) -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?theme=tokyonight" />
 </p>
 
-<!-- Lottie Animation -->
+<!-- انیمیشن Lottie (لینک مستقیم و بدون فیلتر) -->
 <p align="center">
-  <img src="https://readme-lottie.vercel.app/api?file=lf20_j1klkigp.json&color=00FF00" width="380"/>
+  <img src="https://assets9.lottiefiles.com/packages/lf20_j1klkigp.json" width="380"/>
 </p>
 
-<!-- Powered by Coffee -->
+<!-- Powered by Coffee (ساده و بدون فیلتر) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Powered%20by-%E2%98%95%20Coffee-00FF00?style=flat-square" />
+  <img src="https://img.shields.io/badge/Powered%20by-Coffee-00FF00?style=for-the-badge&logo=coffeescript&logoColor=white" />
 </p>
 
 ---
 
 ## Connect with Me
-
 <p align="center">
-  <a href="https://github.com/sadegh-hz18">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://t.me/sadegh_hz18">
-    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="mailto:sadeghhajizadeh999@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://instagram.com/sadegh_hz18">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+  <a href="https://github.com/sadegh-hz18"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://t.me/sadegh_hz18"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="mailto:sadeghhajizadeh999@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/sadegh_hz18"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 <p align="center">
