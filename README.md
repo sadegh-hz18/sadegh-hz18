@@ -8,13 +8,21 @@
 
 ## About Me
 
-> Full-stack developer with expertise in multiple technologies and a passion for open-source contributions. Dedicated to continuous learning and building impactful solutions.
+> Full-stack developer passionate about clean code, beautiful UIs and open-source.
 
-- Currently working on innovative web & mobile applications
-- Learning advanced cloud architectures and microservices
-- Open to collaborating on open-source projects
-- Ask me about Flutter, FastAPI, Laravel, JavaScript, or anything tech-related
+- Currently working on web & mobile applications
+- Learning advanced cloud architectures & microservices
+- Open to collaboration on open-source projects
+- Ask me about Flutter, FastAPI, Laravel, JavaScript or anything tech
 - Fun fact: I love clean code and beautiful UI
+
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sadegh-hz18&color=00ff00&style=flat-square&label=Profile+Views" />
+</p>
+
+<!-- Neon Separator -->
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=3"/></p>
 
 ## GitHub Analytics
 
@@ -68,7 +76,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadegh-hz18&theme=tokyonight&hide_border=true&border_radius=20" alt="Contribution Graph" />
 </p>
 
----
+<!-- Neon Separator -->
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=3"/></p>
 
 ## GitHub Achievements
 
@@ -95,8 +104,12 @@
   </a>
 </p>
 
----
+<!-- Motivational Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=6000&color=00FF00&center=true&vCenter=true&lines=Keep+coding.+Keep+shipping.;Never+stop+learning.;Clean+code+changes+the+world."/>
+</p>
 
+<!-- Footer Wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
