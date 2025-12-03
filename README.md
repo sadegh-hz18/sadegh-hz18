@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sadegh-hz18/sadegh-hz18/blob/main/Medium.png?raw=true" alt="Sadegh Banner" width="800"/>
+  <img src="https://raw.githubusercontent.com/sadegh-hz18/sadegh-hz18/main/Medium.png" alt="Sadegh Banner" width="800"/>
 </p>
 
 <h1 align="center">
@@ -82,20 +82,19 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sadegh-hz18&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
-<!-- ۸ - Random Dev Quote -->
+<!-- Random Dev Quote -->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
-<!-- ۹ - Lottie Animation -->
+<!-- Lottie Animation -->
 <p align="center">
   <img src="https://readme-lottie.vercel.app/api?file=lf20_j1klkigp.json&color=00FF00" width="380"/>
 </p>
 
-<!-- ۱۰ - Powered by Coffee -->
+<!-- Powered by Coffee -->
 <p align="center">
   <img src="https://img.shields.io/badge/Powered%20by-%E2%98%95%20Coffee-00FF00?style=flat-square" />
-  <img src="https://coffee-badge.vercel.app/api/coffee?sadegh-hz18" height="28"/>
 </p>
 
 ---
