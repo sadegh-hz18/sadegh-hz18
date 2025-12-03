@@ -1,88 +1,98 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sadegh-hz18/sadegh-hz18/main/Medium.png" alt="Cross-Platform Code Architect" width="100%" />
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sadegh;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+</h1>
+
+## About Me
+
+> Full-stack developer with expertise in multiple technologies and a passion for open-source contributions. Dedicated to continuous learning and building impactful solutions.
+
+- Currently working on innovative web applications
+- Learning advanced cloud architectures and microservices
+- Open to collaborating on open-source projects
+- Ask me about JavaScript, Go, PHP, or anything tech-related
+- Fun fact: I love contributing to the developer community
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadegh-hz18&theme=tokyonight&langs_count=12&hide_border=true&border_radius=20" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadegh-hz18&theme=tokyonight&hide_border=true&border_radius=20" alt="GitHub Streak" />
+</p>
 
 ---
 
-<div align="center">
-  
-# 👋 Hi, I'm Sadegh Hajizadeh  
+## Tech Stack & Tools
 
-Creative Android Developer & Web Programmer who turns ideas into interactive digital experiences.  
-I love combining logic, design, and clean code to build applications that not only work — they *feel* right.  
+### Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,go,rust,php,java,kotlin,dart" />
+</p>
 
-</div>
+### Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,tailwind,bootstrap,html,css,sass" />
+</p>
 
----
+### Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,nestjs,graphql,prisma" />
+</p>
 
-## 🚀 About Me
-<details>
-  <summary>📂 Click to expand</summary>
-  
-I'm deeply passionate about software development — from crafting Android apps to designing dynamic and responsive websites.  
-Beyond coding, I’m also fascinated by graphic design and enjoy bringing aesthetic ideas to life.  
+### Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite" />
+</p>
 
-My mission is simple:  
-Become the best in my field and help anyone who wants to grow in the digital world.  
+### Cloud & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,aws,gcp,azure,firebase,vercel,netlify,heroku" />
+</p>
 
-</details>
-
----
-
-## 🧠 Skills & Technologies
-<details>
-  <summary>💡 Primary Stacks</summary>
-
-- Android Development  
-  - Kotlin • Dart • Flutter  
-- Web Development  
-  - HTML • CSS • PHP • JavaScript  
-- Programming & General Skills  
-  - Python • UI Concepts • Graphic Design  
-
-</details>
-
-### 🔧 Tech Icons
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,dart,flutter,html,css,php,js,python" />
-</div>
+### Tools & Others
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,postman,bash,powershell,nginx,flutter" />
+</p>
 
 ---
 
-## 🎯 Vision
-<details>
-  <summary>🌍 Click to expand</summary>
-  
-I strive to build solutions that matter — products that can scale, inspire, and create real value.  
-Every line of code I write is a step toward a future where technology empowers more people.  
+## Contribution Activity
 
-</details>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadegh-hz18&theme=tokyonight&hide_border=true&border_radius=20" alt="Contribution Graph" />
+</p>
 
 ---
 
-## 🔥 Personal Motto
-> "I don't follow the future — I build my part of it."  
-*(A unique personal motto designed to reflect my philosophy.)*
+## GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sadegh-hz18&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadegh-hz18&show_icons=true&title_color=39FF14&icon_color=00FFFF&text_color=FF6E00&bg_color=0A0A0A" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadegh-hz18&theme=dark&ring=39FF14&fire=FF073A&currStreakLabel=00FFFF" />
-</div>
+## Connect with Me
+
+<p align="center">
+  <a href="https://github.com/sadegh-hz18">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://t.me/sadegh_hz18">
+    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="mailto:sadeghhajizadeh999@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://instagram.com/sadegh_hz18">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
 ---
 
-## 🤝 Let's Connect!
-<div align="center">
-  <a href="https://github.com/sadegh-hz18"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="mailto:sadeghhajizadeh999@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://t.me/Namdarex"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" height="40" /></a>
-  <a href="https://instagram.com/sadegh_hz18"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://x.com/Sadegh_hz18"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-</div>
-
----
-
-⭐️ If you like my profile, feel free to star one of my repositories — small actions create big impact
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
